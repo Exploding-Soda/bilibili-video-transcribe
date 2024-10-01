@@ -12,4 +12,4 @@ well，把url复制下来，丢给这个脚本，会提交给本地的whisper分
 
 用科技战胜这群没逻辑又极端的废物。
 
-# 请记得安装FFmepg
+# 请记得安装FFmepg和Whisper，想直接使用可以下载release版，里面已经包含所需的内容
